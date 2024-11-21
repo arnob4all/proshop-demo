@@ -37,7 +37,7 @@ const products = [
       numReviews: 12,
     },
     { _id:'4',
-      name: 'Sony Playstation 5',
+      name: 'Sony Playstation 5 (Gaming Console)',
       image: '/images/playstation.jpg',
       description:
         'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
